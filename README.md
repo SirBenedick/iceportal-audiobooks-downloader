@@ -1,11 +1,11 @@
 # iceportal-audiobooks-downloader
+(only works when connected to the ICE wifi)
 
 As the title describes...
-
 A small script which downloads all offerd audiobooks from the deutsche bahn iceportal.
 
 
-![](Gif will be added)
+![](https://media.giphy.com/media/WwMeWTTa6CJziyHlnk/giphy.gif)
 
 
 
