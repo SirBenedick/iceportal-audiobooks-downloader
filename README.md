@@ -5,7 +5,7 @@ As the title describes...
 A small script which downloads all offerd audiobooks from the deutsche bahn iceportal.
 
 
-![](https://media.giphy.com/media/WwMeWTTa6CJziyHlnk/giphy.gif)
+![](https://github.com/SirBenedick/iceportal-audiobooks-downloader/blob/master/git.gif)
 
 
 
